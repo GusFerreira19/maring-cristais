@@ -30,6 +30,7 @@ img {
   --text-color-light: 0 0 0 %98;
   --body-color: rgb(255, 205, 213);
   --background-color: rgb(255, 235, 235);
+  --card-color: rgb(250, 216, 216);
 
 
   --title-font-size: 1.875rem;
@@ -354,6 +355,7 @@ nav.show div.icon-close {
   border-bottom: 0.25rem solid var(--base-color);
   border-radius: 0.25rem 0.25rem 0 0;
   text-align: center;
+  background: var(--card-color);
 }
 
 .card i {
