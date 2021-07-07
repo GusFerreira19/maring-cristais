@@ -549,6 +549,14 @@ footer .brand p {
 /*== RESPONSIVO ==*/
 /* extra large devices: 1200 > */
 @media (min-width: 992px) {
+  .divider-1 {
+    height: 2px;
+  }
+
+  .divider-2 {
+    height: 2px;
+  }
+
   .container {
     max-width: 1120px;
     margin-left: auto;
